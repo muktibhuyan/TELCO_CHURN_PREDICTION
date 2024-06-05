@@ -33,15 +33,15 @@ Telco, a leading telecommunications company, faces the challenge of customer chu
 6.Focus retention efforts on customers with month-to-month contracts, as they have the highest churn rates. Consider offering incentives or promotions to encourage them to switch to longer-term contracts.
 7.Monitor churn rates closely and continue to analyze customer behavior to identify additional factors that may influence churn and develop targeted strategies to reduce churn rates further.
 
-Logistic (Binomial) Regression and Random Forest Machine Learning algorithm  is used for Churn Model Prediction.
+**Logistic (Binomial) Regression and Random Forest Machine Learning algorithm  is used for Churn Model Prediction.**
 
-Logistic Regression Model Performance: 
+**Logistic Regression Model Performance:** 
 Accuracy: 1.0
 Precision: 1.0
 Recall: 1.0
 F1 Score:  1.0
 
-Random Forest Model Performance: 
+**Random Forest Model Performance:** 
 Accuracy: 1.0
 Precision: 1.0
 Recall: 1.0
