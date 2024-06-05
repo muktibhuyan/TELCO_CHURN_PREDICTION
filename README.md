@@ -2,6 +2,15 @@
 Telco, a leading telecommunications company, faces the challenge of customer churn, where a significant portion of its customer base discontinues services. To address this issue and enhance customer retention, Telco embarked on an **exploratory data analysis (EDA**) project, employing **logistic regression and random forest algorithms**. These advanced analytical techniques were utilized to gain insights into the factors influencing churn behavior. By analyzing various demographic, contractual, and service-related attributes, Telco aims to identify patterns and trends associated with churn. This project encompasses initial observations, interpretation of findings, and actionable recommendations derived from EDA and advanced machine learning models, providing Telco with valuable insights to devise effective retention strategies and bolster customer loyalty.
 
 
+**Here's an overview of the steps taken during the EDA process:**
+
+1.Data Understanding: • Comprehensive examination of the dataset to grasp its structure, variables, and overall content.
+2.Data Preparation: • Rigorous data cleaning, formatting, and addressing of null values to ensure data quality and consistency.
+3.Missing Values Imputation: • Imputation of missing values based on the type of data (categorical/numerical) to maintain data integrity.
+4.Outlier Detection and Treatment: • Utilization of visualization tools such as box plots to identify outliers, followed by appropriate treatment to mitigate their impact on the analysis.
+5.Univariate Analysis: • Examination of individual variables using various graphical representations: • Numerical data: Histograms, density plots. • Categorical data: Pie charts, Donut charts, Bar charts. • Temporal analysis: Line charts.
+6.Bivariate Analysis and Correlation Assessment: • Exploration of relationships between pairs of variables, including correlation analysis to determine dependencies. • Visualization tools: Scatterplots, Heatmaps, Pair plots.
+7.Multivariate Analysis: • Investigation into how demographic details influence customer response. • Visualization tools: Heatmaps, Bar charts.
 
 
 **Initial Observations:**
